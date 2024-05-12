@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "ts-node": "ts-node"
+  },
+  "dependencies": {
+    "fp-ts": "2.16.5"
+  },
+  "devDependencies": {
+    "ts-node": "10.9.2",
+    "typescript": "5.4.5"
+  }
+}
